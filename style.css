@@ -103,6 +103,8 @@ a::after{
   .column img:hover{
       opacity: 0.8;
      width:100%;
+     position:relative;
+     left:10px;
   }
   a:hover{
       color:#686868;
