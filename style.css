@@ -96,13 +96,13 @@ a::after{
 .column img {
     margin-top: 20px;
     vertical-align: middle;
-    width: 100%;
+    width: 97%;
     transition: 0.5s ease;
   }
 
-  img:hover{
+  .column img:hover{
       opacity: 0.8;
-     width:103%;
+     width:100%;
   }
   a:hover{
       color:#686868;
