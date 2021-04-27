@@ -102,6 +102,7 @@ a::after{
 
   img:hover{
       opacity: 0.8;
+     width:103%;
   }
   a:hover{
       color:#686868;
