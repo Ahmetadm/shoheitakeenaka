@@ -101,7 +101,7 @@ a::after{
   }
 
   .column img:hover{
-      opacity: 0;
+      opacity: 1;
    
   }
   a:hover{
